@@ -1,13 +1,13 @@
-# WEB DEVELOPMENT
+# HTML - Hyper Text Markup Language 
 
  - Title 
  - Introduction
  - Authors
  - Acknowledgements
 
-## Ttile
+## Title
  
- **Web Dev** codes are in this repo
+ **HTML Practice** codes are here in this repo
 
 ## Introduction
 
@@ -16,7 +16,7 @@
  and you can also refer this repo to start your web dev journey.
 
 > 
->>refer this vary list to get familiar with my repo
+>> refer this vary list to get familiar with my repo
 >>> myhtml
 >> - index.html
 >> - basics.html
