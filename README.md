@@ -7,7 +7,7 @@
 
 ## Title
  
- **HTML Practice** codes are here in this repo
+ **HTML coding Practices inthis repository** 
 
 ## Introduction
 
