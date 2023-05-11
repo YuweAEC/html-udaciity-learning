@@ -23,7 +23,7 @@
 >> - heading-paragraph.html
 >> - formating.html
 >> - colors.html
->
+>> - text.html
 
 ## Authors
 
